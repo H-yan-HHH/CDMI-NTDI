@@ -17,16 +17,27 @@ This project implements a computational pipeline for identifying gene driver mod
 Environment Requirements:
 
 h5py==3.13.0
+
 mkl-service==2.4.0
+
 networkx==2.8.8
+
 node2vec==0.4.6
+
 pandas==2.2.3
+
 pyparsing==3.0.9
+
 scanpy==1.10.3
+
 scikit-learn==1.1.3
+
 scipy==1.13.1
+
 sklearn==0.0
+
 tqdm==4.64.1
+
 torch==2.6.0
 
 
